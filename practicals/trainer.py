@@ -1,11 +1,6 @@
 import sys
 def ss(word,ipa):
 	ret = ""
-	#for c in word:
-	#	if c in ipa:
-	#		ret = ret + ipa[c]
-	#	else:
-	#		ret = ret + c
 	i = 0 
 	while i < len(word):
 		if i+1<(len(word)):
