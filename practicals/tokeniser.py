@@ -26,6 +26,7 @@ for sublist in w:
 		punc = punc.replace(') ','\n)\n')
 		punc = punc.replace(' (','\n(\n')
 		punc = punc.replace(',','\n,\n')
+		punc = punc.replace('.','\n.\n')
 		ok = punc.split()
 		flat_list.append(ok)
 flatten = lambda w: [item for sublist in w for item in sublist]
@@ -50,6 +51,8 @@ for i in range(len(flat_list)):
                 elif u[c] == ')':
                         print("%d\t%s\t_\t_\t_\t_\t_\t_\t_"%(c+1,u[c]))
                 elif u[c] == '(':
+                        print("%d\t%s\t_\t_\t_\t_\t_\t_\t_"%(c+1,u[c]))
+		elif u[c] == '.':
                         print("%d\t%s\t_\t_\t_\t_\t_\t_\t_"%(c+1,u[c]))
                 else:
                         print("%d\t%s\t_\t_\t_\t_\t_\t_\t_\t_"%(c+1,u[c]))
