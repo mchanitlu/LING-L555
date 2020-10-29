@@ -1,4 +1,3 @@
-  
 import sys
 import itertools
 text = sys.stdin.read()	
@@ -15,10 +14,10 @@ def newlist(z):
 	res = [ele for ele in res if ele != ['']]  
 	return(res) 
 w = newlist(z)
-#print("w")
-#print(w)
-#for i in range(len(w)):
-#	print("%d\t%s"%(i+1,w[i]))
+print("w")
+print(w)
+for i in range(len(w)):
+	print("%d\t%s"%(i+1,w[i]))
 a = "ID\tFROM\tLEMMA\tUPOS\tXPOS\tFEATS\tHEAD\tDEPREL\tDEPS\tMISC"
 flat_list = []
 for sublist in w:
@@ -33,6 +32,7 @@ for sublist in w:
 flatten = lambda w: [item for sublist in w for item in sublist]
 a = "ID\tFROM\tLEMMA\tUPOS\tXPOS\tFEATS\tHEAD\tDEPREL\tDEPS\tMISC"
 print(a)
+punct:[',',')','(','"','.']
 for i in range(len(flat_list)):
 	print('# sent_id = %s' % (i+1))
 	nano = ' '.join(flat_list[i])
@@ -40,9 +40,7 @@ for i in range(len(flat_list)):
 	flat_list[i] = list(filter(lambda item: item.strip(), flat_list[i]))
 	for c in range(len(flat_list[i])):
 		u = flat_list[i]
-		if u[c] == '.':
-			print("%d\t%s\t_\t_\t_\t_\t_\t_\t_"%(c+1,u[c]))
-		elif u[c] == ',':
+		if u[c] == ',':
 			print("%d\t%s\t_\t_\t_\t_\t_\t_\t_"%(c+1,u[c]))
 		elif u[c] == '-':
                         print("%d\t%s\t_\t_\t_\t_\t_\t_\t_"%(c+1,u[c]))
@@ -52,5 +50,8 @@ for i in range(len(flat_list)):
                         print("%d\t%s\t_\t_\t_\t_\t_\t_\t_"%(c+1,u[c]))
 		elif u[c] == '(':
                         print("%d\t%s\t_\t_\t_\t_\t_\t_\t_"%(c+1,u[c]))
+		elif u[c] == '.':
+			print("%d\t%s\t_\t_\t_\t_\t_\t_\t_"%(c+1,u[c]))
 		else:
 			print("%d\t%s\t_\t_\t_\t_\t_\t_\t_\t_"%(c+1,u[c]))
+		
