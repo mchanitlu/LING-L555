@@ -14,8 +14,8 @@ def newlist(z):
 	res = [ele for ele in res if ele != ['']]  
 	return(res) 
 w = newlist(z)
-for i in range(len(w)):
-	print("%d\t%s"%(i+1,w[i]))
+#for i in range(len(w)):
+#	print("%d\t%s"%(i+1,w[i]))
 a = "ID\tFROM\tLEMMA\tUPOS\tXPOS\tFEATS\tHEAD\tDEPREL\tDEPS\tMISC"
 flat_list = []
 for sublist in w:
