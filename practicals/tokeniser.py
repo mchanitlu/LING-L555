@@ -35,7 +35,6 @@ for i in range(len(flat_list)):
 	print('# sent_id = %s' % (i+1))
 	nano = ' '.join(flat_list[i])
 	print("# text = " + str(nano))
-	print(a)
 	flat_list[i] = list(filter(lambda item: item.strip(), flat_list[i]))
 	for c in range(len(flat_list[i])):
 		u = flat_list[i]
