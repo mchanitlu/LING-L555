@@ -28,7 +28,7 @@ for sublist in w:
 		ok = punc.split()
 		flat_list.append(ok)
 flatten = lambda w: [item for sublist in w for item in sublist]
-a = "ID\tFROM\tLEMMA\tUPOS\tXPOS\tFEATS\tHEAD\tDEPREL\tDEPS\tMISC"
+#a = "ID\tFROM\tLEMMA\tUPOS\tXPOS\tFEATS\tHEAD\tDEPREL\tDEPS\tMISC"
 print(a)
 punct:[',',')','(','"','.']
 for i in range(len(flat_list)):
