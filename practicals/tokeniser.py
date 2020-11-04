@@ -26,7 +26,6 @@ for sublist in w:
 		flat_list.append(ok)
 flatten = lambda w: [item for sublist in w for item in sublist]
 a = "ID\tFROM\tLEMMA\tUPOS\tXPOS\tFEATS\tHEAD\tDEPREL\tDEPS\tMISC"
-print(a)
 punct:[',',')','(','"','.']
 for i in range(len(flat_list)):
 	print('# sent_id = %s' % (i+1))
@@ -37,6 +36,6 @@ for i in range(len(flat_list)):
 	for c in range(len(flat_list[i])):
 		u = flat_list[i]
 		print("%d\t%s\t_\t_\t_\t_\t_\t_\t_\t_\t"%(c+1,u[c]))
-	print('\n')
+	print('\t')
 			
 		
