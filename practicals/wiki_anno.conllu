@@ -65,7 +65,7 @@
 # sent_id = 4
 # text = Ixa coloración especial ha feito d'a estrela un obchecto d'intrés ta muitas sociedatz a lo largo d'a historia , y muitos d'os antigos templos echipcios s'orientoron a fin que a luz d'Antares tenese un papel importán en as ceremonias que se i celebraban .
 1	Ixa	_	NOUN	_	_	_	_	_	_	IPA=Ixa
-2	coloración	_	ADJ	_	_	_	_	_	_	IPA=coloɾaθón
+2	coloración	_	ADJ	_	_	_	_	_	_	IPA=coloɾaθión
 3	especial	_	ADJ	_	_	_	_	_	_	IPA=espeθal
 4	ha	_	INTJ	_	_	_	_	_	_	IPA=ha
 5	feito	_	ADJ	_	_	_	_	_	_	IPA=feito
@@ -88,7 +88,7 @@
 22	d'os	_	ADJ	_	_	_	_	_	_	IPA=d'os
 23	antigos	_	NOUN	_	_	_	_	_	_	IPA=antigos
 24	templos	_	NOUN	_	_	_	_	_	_	IPA=templos
-25	echipcios	_	NOUN	_	_	_	_	_	_	IPA=etʃipθos
+25	echipcios	_	NOUN	_	_	_	_	_	_	IPA=etʃipθios
 26	s'orientoron	_	NOUN	_	_	_	_	_	_	IPA=s'oɾientoɾon
 27	a	_	PROP	_	_	_	_	_	_	IPA=a
 28	fin	_	NOUN	_	_	_	_	_	_	IPA=fin
@@ -102,11 +102,11 @@
 36	importán	_	NOUN	_	_	_	_	_	_	IPA=impoɾtán
 37	en	_	PROP	_	_	_	_	_	_	IPA=en
 38	as	_	DET	_	_	_	_	_	_	IPA=as
-39	ceremonias	NOUN	_	_	_	_	_	_	_	IPA=θɾemonias
+39	ceremonias	NOUN	_	_	_	_	_	_	_	IPA=θeɾemonias
 40	que	_	ADJ	_	_	_	_	_	_	IPA=ke
 41	se	_	VERB	_	_	_	_	_	_	IPA=se
 42	i	_	PRON	_	_	_	_	_	_	IPA=i
-43	celebraban	_	VERB	_	_	_	_	_	_	IPA=θlebɾaban
+43	celebraban	_	VERB	_	_	_	_	_	_	IPA=θelebɾaban
 44	.	_	PUNCT	_	_	_	_	_	_	IPA=.
 	
 # sent_id = 5
@@ -125,7 +125,7 @@
 12	astrologos	_	NOUN	_	_	_	_	_	_	IPA=astɾologos
 13	persas	_	NOUN	_	_	_	_	_	_	IPA=peɾsas
 14	y	_	CONJ	_	_	_	_	_	_	IPA=j
-15	mencionatas	_	VERB	_	_	_	_	_	_	IPA=menθonatas
+15	mencionatas	_	VERB	_	_	_	_	_	_	IPA=menθionatas
 16	por	_	PROP	_	_	_	_	_	_	IPA=poɾ
 17	Zoroastres	_	NOUN	_	_	_	_	_	_	IPA=Zoɾoastɾes
 18	,	_	PUNCT	_	_	_	_	_	_	IPA=,
@@ -138,13 +138,13 @@
 25	a	_	PROP	_	_	_	_	_	_	IPA=a
 26	"	_	PUNCT	_	_	_	_	_	_	IPA="
 27	estrela	_	NOUN	_	_	_	_	_	_	IPA=estɾela
-28	lanza	_	NOUN	_	_	_	_	_	_	IPA=lanθ
+28	lanza	_	NOUN	_	_	_	_	_	_	IPA=lanθa
 29	"	_	PUNT	_	_	_	_	_	_	IPA="
 30	a	_	PROP	_	_	_	_	_	_	IPA=a
 31	la	_	PRON	_	_	_	_	_	_	IPA=la
 32	que	_	ADJ	_	_	_	_	_	_	IPA=ke
 33	fa	_	PROP	_	_	_	_	_	_	IPA=fa
-34	referencia	_	NOUN	_	_	_	_	_	_	IPA=ɾefeɾenθa
+34	referencia	_	NOUN	_	_	_	_	_	_	IPA=ɾefeɾenθia
 35	o	_	CONJ	_	_	_	_	_	_	IPA=o
 36	libro	_	NOUN	_	_	_	_	_	_	IPA=libɾo
 37	biblico	_	ADJ	_	_	_	_	_	_	IPA=biblico
@@ -178,7 +178,7 @@
 22	mica	_	NOUN	_	_	_	_	_	_	IPA=mica
 23	més	_	NOUN	_	_	_	_	_	_	IPA=més
 24	d'a	_	DET	_	_	_	_	_	_	IPA=d'a
-25	distancia	_	NOUN	_	_	_	_	_	_	IPA=distanθa
+25	distancia	_	NOUN	_	_	_	_	_	_	IPA=distanθia
 26	entre	_	CONJ	_	_	_	_	_	_	IPA=entɾe
 27	o	_	CONJ	_	_	_	_	_	_	IPA=o
 28	Sol	_	NOUN	_	_	_	_	_	_	IPA=Sol
@@ -201,7 +201,7 @@
 # sent_id = 8
 # text = A distancia a la Tierra ye de 604 anyos luz .
 1	A	_	PROP	_	_	_	_	_	_	IPA=A
-2	distancia	_	NOUN	_	_	_	_	_	_	IPA=distanθa
+2	distancia	_	NOUN	_	_	_	_	_	_	IPA=distanθia
 3	a	_	PROP	_	_	_	_	_	_	IPA=a
 4	la	_	PRON	_	_	_	_	_	_	IPA=la
 5	Tierra	_	NOUN	_	_	_	_	_	_	IPA=Tierra
