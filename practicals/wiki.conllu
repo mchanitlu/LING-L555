@@ -190,7 +190,7 @@
 	
 # sent_id = 7
 # text = A suya densidat ye bien chicota .
-1	A	_	PREP	_	_	_	_	_	_	IPA=A
+1	A	_	ADP	_	_	_	_	_	_	IPA=A
 2	suya	_	PRON	_	_	_	_	_	_	IPA=suja
 3	densidat	_	NOUN	_	_	_	_	_	_	IPA=densidat
 4	ye	_	NOUN	_	_	_	_	_	_	IPA=je
@@ -200,9 +200,9 @@
 	
 # sent_id = 8
 # text = A distancia a la Tierra ye de 604 anyos luz .
-1	A	_	PREP	_	_	_	_	_	_	IPA=A
+1	A	_	ADP	_	_	_	_	_	_	IPA=A
 2	distancia	_	NOUN	_	_	_	_	_	_	IPA=distanθia
-3	a	_	PREP	_	_	_	_	_	_	IPA=a
+3	a	_	ADP	_	_	_	_	_	_	IPA=a
 4	la	_	PRON	_	_	_	_	_	_	IPA=la
 5	Tierra	_	NOUN	_	_	_	_	_	_	IPA=Tierra
 6	ye	_	PRON	_	_	_	_	_	_	IPA=je
