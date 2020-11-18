@@ -29,7 +29,7 @@
 19	"	_	PUNCT	_	_	_	_	_	_	IPA="
 20	"	_	PUNCT	_	_	_	_	_	_	IPA="
 21	pareixito	_	NOUN	_	_	_	_	_	_	IPA=paɾejʃito
-22	a	_	PROP	_	_	_	_	_	_	IPA=a
+22	a	_	ADP	_	_	_	_	_	_	IPA=a
 23	Ares	_	VERB	_	_	_	_	_	_	IPA=Aɾes
 24	"	_	PUNCT	_	_	_	_	_	_	IPA="
 25	"	_	PUNCT	_	_	_	_	_	_	IPA="
@@ -43,13 +43,13 @@
 33	,	_	PUNCT	_	_	_	_	_	_	IPA=,
 34	probablement	NOUN	_	_	_	_	_	_	_	IPA=pɾobablement
 35	perque	_	NOUN	_	_	_	_	_	_	IPA=peɾke
-36	a	_	PROP	_	_	_	_	_	_	IPA=a
+36	a	_	ADP	_	_	_	_	_	_	IPA=a
 37	suya	_	PRON	_	_	_	_	_	_	IPA=suja
 38	tonalidat	_	ADJ	_	_	_	_	_	_	IPA=tonalidat
 39	royisca	_	NOUN	_	_	_	_	_	_	IPA=ɾojisca
 40	fa	_	NOUN	_	_	_	_	_	_	IPA=fa
-41	recordar	PROP	_	_	_	_	_	_	_	IPA=ɾecoɾdaɾ
-42	a	_	PROP	_	_	_	_	_	_	IPA=a
+41	recordar	ADP	_	_	_	_	_	_	_	IPA=ɾecoɾdaɾ
+42	a	_	ADP	_	_	_	_	_	_	IPA=a
 43	d'o	_	DET	_	_	_	_	_	_	IPA=d'o
 44	planeta	_	NOUN	_	_	_	_	_	_	IPA=planeta
 45	Marte	_	NOUN	_	_	_	_	_	_	IPA=Maɾte
@@ -77,7 +77,7 @@
 11	ta	_	VERB	_	_	_	_	_	_	IPA=ta
 12	muitas	_	PRON	_	_	_	_	_	_	IPA=muitas
 13	sociedatz	NOUN	_	_	_	_	_	_	_	IPA=soθiedatz
-14	a	_	PROP	_	_	_	_	_	_	IPA=a
+14	a	_	ADP	_	_	_	_	_	_	IPA=a
 15	lo	_	PRON	_	_	_	_	_	_	IPA=lo
 16	largo	_	NOUN	_	_	_	_	_	_	IPA=laɾgo
 17	d'a	_	DET	_	_	_	_	_	_	IPA=d'a
@@ -90,17 +90,17 @@
 24	templos	_	NOUN	_	_	_	_	_	_	IPA=templos
 25	echipcios	_	NOUN	_	_	_	_	_	_	IPA=etʃipθios
 26	s'orientoron	_	NOUN	_	_	_	_	_	_	IPA=s'oɾientoɾon
-27	a	_	PROP	_	_	_	_	_	_	IPA=a
+27	a	_	ADP	_	_	_	_	_	_	IPA=a
 28	fin	_	NOUN	_	_	_	_	_	_	IPA=fin
 29	que	_	ADV	_	_	_	_	_	_	IPA=ke
-30	a	_	PROP	_	_	_	_	_	_	IPA=a
+30	a	_	ADP	_	_	_	_	_	_	IPA=a
 31	luz	_	NOUN	_	_	_	_	_	_	IPA=luz
 32	d'Antares	_	ADJ	_	_	_	_	_	_	IPA=d'Antaɾes
 33	tenese	_	VERB	_	_	_	_	_	_	IPA=tenese
 34	un	_	ADJ	_	_	_	_	_	_	IPA=un
 35	papel	_	NOUN	_	_	_	_	_	_	IPA=papel
 36	importán	_	NOUN	_	_	_	_	_	_	IPA=impoɾtán
-37	en	_	PROP	_	_	_	_	_	_	IPA=en
+37	en	_	ADP	_	_	_	_	_	_	IPA=en
 38	as	_	DET	_	_	_	_	_	_	IPA=as
 39	ceremonias	NOUN	_	_	_	_	_	_	_	IPA=θeɾemonias
 40	que	_	ADJ	_	_	_	_	_	_	IPA=ke
@@ -126,7 +126,7 @@
 13	persas	_	NOUN	_	_	_	_	_	_	IPA=peɾsas
 14	y	_	CONJ	_	_	_	_	_	_	IPA=j
 15	mencionatas	_	VERB	_	_	_	_	_	_	IPA=menθionatas
-16	por	_	PROP	_	_	_	_	_	_	IPA=poɾ
+16	por	_	ADP	_	_	_	_	_	_	IPA=poɾ
 17	Zoroastres	_	NOUN	_	_	_	_	_	_	IPA=Zoɾoastɾes
 18	,	_	PUNCT	_	_	_	_	_	_	IPA=,
 19	y	_	CONJ	_	_	_	_	_	_	IPA=j
@@ -135,20 +135,20 @@
 22	aseguran	_	VERB	_	_	_	_	_	_	IPA=aseguɾan
 23	que	_	ADJ	_	_	_	_	_	_	IPA=ke
 24	ye	_	PRON	_	_	_	_	_	_	IPA=je
-25	a	_	PROP	_	_	_	_	_	_	IPA=a
+25	a	_	ADP	_	_	_	_	_	_	IPA=a
 26	"	_	PUNCT	_	_	_	_	_	_	IPA="
 27	estrela	_	NOUN	_	_	_	_	_	_	IPA=estɾela
 28	lanza	_	NOUN	_	_	_	_	_	_	IPA=lanθa
 29	"	_	PUNT	_	_	_	_	_	_	IPA="
-30	a	_	PROP	_	_	_	_	_	_	IPA=a
+30	a	_	ADP	_	_	_	_	_	_	IPA=a
 31	la	_	PRON	_	_	_	_	_	_	IPA=la
 32	que	_	ADJ	_	_	_	_	_	_	IPA=ke
-33	fa	_	PROP	_	_	_	_	_	_	IPA=fa
+33	fa	_	ADP	_	_	_	_	_	_	IPA=fa
 34	referencia	_	NOUN	_	_	_	_	_	_	IPA=ɾefeɾenθia
 35	o	_	CONJ	_	_	_	_	_	_	IPA=o
 36	libro	_	NOUN	_	_	_	_	_	_	IPA=libɾo
 37	biblico	_	ADJ	_	_	_	_	_	_	IPA=biblico
-38	de	_	PROP	_	_	_	_	_	_	IPA=de
+38	de	_	ADP	_	_	_	_	_	_	IPA=de
 39	Chob	_	NOUN	_	_	_	_	_	_	IPA=Chob
 40	.	_	PUNCT	_	_	_	_	_	_	IPA=.
 	
@@ -163,7 +163,7 @@
 7	clase	_	NOUN	_	_	_	_	_	_	IPA=clase
 8	M	_	NOUN	_	_	_	_	_	_	IPA=M
 9	,	_	PUNCT	_	_	_	_	_	_	IPA=,
-10	con	_	PROP	_	_	_	_	_	_	IPA=con
+10	con	_	ADP	_	_	_	_	_	_	IPA=con
 11	un	_	ADJ	_	_	_	_	_	_	IPA=un
 12	diametro	_	NOUN	_	_	_	_	_	_	IPA=diametɾo
 13	d'aproximadament	_	ADV	_	_	_	_	_	_	IPA=d'apɾoximadament
@@ -190,7 +190,7 @@
 	
 # sent_id = 7
 # text = A suya densidat ye bien chicota .
-1	A	_	PROP	_	_	_	_	_	_	IPA=A
+1	A	_	PREP	_	_	_	_	_	_	IPA=A
 2	suya	_	PRON	_	_	_	_	_	_	IPA=suja
 3	densidat	_	NOUN	_	_	_	_	_	_	IPA=densidat
 4	ye	_	NOUN	_	_	_	_	_	_	IPA=je
@@ -200,9 +200,9 @@
 	
 # sent_id = 8
 # text = A distancia a la Tierra ye de 604 anyos luz .
-1	A	_	PROP	_	_	_	_	_	_	IPA=A
+1	A	_	PREP	_	_	_	_	_	_	IPA=A
 2	distancia	_	NOUN	_	_	_	_	_	_	IPA=distanθia
-3	a	_	PROP	_	_	_	_	_	_	IPA=a
+3	a	_	PREP	_	_	_	_	_	_	IPA=a
 4	la	_	PRON	_	_	_	_	_	_	IPA=la
 5	Tierra	_	NOUN	_	_	_	_	_	_	IPA=Tierra
 6	ye	_	PRON	_	_	_	_	_	_	IPA=je
