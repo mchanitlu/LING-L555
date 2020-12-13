@@ -6,3 +6,4 @@ realaffix.py is to highlight the real affixes in Kabardian and compare the popul
 head wiki.txt| python3 segmenternew.py|python3 tokenisernew.py| python3 transcriberkabardian.py |python3 realaffix.py
 Since the highlight makes the conllu file messy, so I made a conllu without hightlight and tags parts of the speech.
 cat wiki.txt|python3 segmenternew.py|python3 tokenisernew.py|python3 transcriberkabardian.py > partsofspeech.conllu
+partsofspeech.conllupartsofspeech.conllu | python3 train.py
